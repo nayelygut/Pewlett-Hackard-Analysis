@@ -5,6 +5,7 @@ The Pelett-Hackard company is curious about their upcoming human resources needs
 
 ## Results:
 ![](retiring_titles.png)
+
 Looking at the retiring titles above we can see that:
 * Most vacancies will be for senior engineers and senior staff
 * Only 2 managers will be retiring soon
