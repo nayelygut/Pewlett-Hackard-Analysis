@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of the analysis:
-The Pelett-Hackard company is curious about their upcoming human resources needs. In this analysis, I looked at the employee data provided to determine the number of retirement-age employees and their titles so the company can prepare to replace this positions and train the next generation. 
+For this project, I used SQL to look into the human resources data of a fake company called "Pewlet-Hackard". I looked at the employee data to determine the number of retirement-age employees and their titles so the company can prepare to replace these positions and train the next generation. 
 
 ## Results:
 ![](retiring_titles.png)
